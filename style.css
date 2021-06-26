@@ -9,15 +9,15 @@ body {
      font-weight: bold;
      color:#FF5733;
      font-size: 25px;
-     margin-bottom:3px;
+     margin-bottom:20px;
      text-align:left;
 }
 
 .slidecontainer {
-  margin-bottom: 25px;
+  margin-bottom:10px;
   top:100px;
   left:56%;
-  transform:translate(-50%,-50%);
+  transform:translate(-10%,-40%);
   width:100%;
   height:5px;
   padding:20px;
@@ -81,3 +81,4 @@ body {
 
   float:right;
 }
+
