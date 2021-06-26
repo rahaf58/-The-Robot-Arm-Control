@@ -6,7 +6,7 @@ Training in Smart Methods Company. The first task required is an industrial robo
 - Create php pages to connect the database to the device.
 
 The project allows the user to control the robot arm by adjusting the angle of each motor. The robot arm contains 6 motors. The project contains:
-- The project home page (index.html) is a simple interface with 6 sliders and 2 buttons. The user will adjust each slider according to the desired angle of the corresponding motor. Then, when you press the save button, the values ​​are stored in the database. When the power button is Running, the robot is turned on.
+- The project home page (index.html) is a simple interface with 6 sliders and 2 buttons. The user will adjust each slider according to the desired angle of the corresponding motor. Then, when you press the save button, the values ​​are stored in the database. When the Running button is pressed, the bot runs and the values ​​must be saved before running.
 
 - The (style.css) file for design syntax.
 
