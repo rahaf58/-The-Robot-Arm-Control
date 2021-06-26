@@ -15,3 +15,5 @@ The project allows the user to control the robot arm by adjusting the angle of e
 -  The (motors.sql) file that contains an Motors table, and sql queries are included for some typical data inserts.
 
 - The (arm2.jpg) background image.
+- The interface
+![image](https://user-images.githubusercontent.com/47089835/123521973-c4e0d300-d6c2-11eb-83f1-8ab920f5cf02.png)
